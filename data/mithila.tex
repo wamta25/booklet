@@ -1,0 +1,61 @@
+\begin{center}
+\textit{Co-Authors: Peter Franz and Gerald Baumgartner}
+\end{center} 
+Cloud computing has been very successful for many types of
+applications, especially for applications that do not require frequent
+communication between different cloud nodes, such as MapReduce or
+graph-parallel algorithms. One of the advantages of cloud computing
+over a cluster or local supercomputer is its low cost, in particular
+when using virtual resources. However, for applications with
+fine-grained parallelism, it shows less than satisfactory performance.
+Renting dedicated clusters from cloud providers is expensive and
+virtual resources are heterogeneous in performance and latency.
+
+A solution to running high-performance applications in the cloud is to
+structure them as many-task applications and to match the performance
+requirements of tasks to the available performance characteristics of
+cloud nodes. Since this requires periodic performance and latency
+measurements, a centralized task scheduler can become a bottleneck for
+large applications with fine-grained parallelism.
+
+In previous research, we have demonstrated that a decentralized task
+scheduler can successfully distribute the tasks onto cloud nodes
+without the bottleneck of a centralized scheduler. The disadvantage
+of a decentralized scheduler is that it cannot guarantee perfect
+resource utilization: occasionally nodes can become temporarily idle.
+
+For our scheduling approach, worker nodes are connected in an overlay
+graph. Each node periodically measures its performance and
+communication latency with neighbors on the graph and sends this
+information as well as the length of its task queue to its neighbors.
+After collecting the performance information from its neighbors, each
+node then normalizes the measurement results and plots them on a
+multi-dimensional grid. Spare tasks in the task queue are then sent
+to better-performing nodes, i.e., to nodes with shorter tasks queues,
+higher performance, and/or lower latency. This is achieved by
+comparing the difference between the node's own measurement results
+and a neighbor's measurement results with the desired direction or
+vector in which tasks should travel.
+
+In previous research, we have demonstrate that this vector-scheduling
+works best if the underlying overlay graph reflects the distances
+between nodes. Clusters of nodes with low communication latency
+between them (e.g., if they reside in the same CPU or the same rack)
+are connected in a full graph. Between clusters of more distant nodes
+(e.g., at different ends of the warehouse-sized data center or at
+different cloud sites) there are fewer connections on the overlay
+graph to avoid tasks being shipped back and forth between distant
+nodes.
+
+We have run experiments in CloudLab with both simulated and actual
+differences in performance and communication latency. As demo
+application, we have used sets of matrix multiplications of varying
+sizes. Our experiments demonstrate that the vector-scheduling
+approach results in good resource utilization and good load balancing
+of the tasks on the worker nodes.
+
+Recently, we have implemented support in our cloud platform for
+scheduling tasks on multi-site clouds as well as on hybrid clouds.
+For this paper, we will concentrate on measurements demonstrating the
+feasibility of running many-task applications on multi-clouds and
+hybrid clouds. 
