@@ -1,7 +1,7 @@
 Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 1,Strout,Michelle,data/strout.tex,HPE,TBA,15$^{th}$,9:00 AM--10:00 AM
 2,Steriling,Thomas,data/steriling.tex,Indiana State University,Active Memory Architecture for Asynchronous Graph Processing,15$^{th}$,10:30 AM--11:00 AM
-3,Thoman,Peter,data/thoman.tex,The University of Padua,Command Horizons: Coalescing Data Dependencies while Maintaining Asynchronicity,15$^{th}$,11:00 AM--11:30 AM
+3,\textcolor{blue}{Thoman},\textcolor{blue}{Peter},data/thoman.tex,The University of Padua,Command Horizons: Coalescing Data Dependencies while Maintaining Asynchronicity,15$^{th}$,11:00 AM--11:30 AM
 4,Burns,Rod,data/burns.tex,Codeplay,Performance Portability using Standard C++ with SYCL,15$^{th}$,11:30 AM--12:00 PM
 5,Wong,Michael,data/wong.tex,Intel,"Khronos SYCL heterogeneous programming for future codesign with RISC-V, HPC, and AI",15$^{th}$,12:00 PM--12:30 PM
 6,Ciesko,Jan,data/ciesko.tex,Sandia National Laboratories,Qthreads: A Lightweight Threading Library for the Many-core Era ,15$^{th}$,2:00 PM--2:30 PM
@@ -13,7 +13,7 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 12,Bergen,Ben,data/bergen.tex,Los Alamos National Laboratory,Recent FleCSI Developments,16$^{th}$,11:30 AM--12:00 PM
 13,Richardson,Brad,data/richardson.tex,"Archaeologic, Inc.","Framework for Extensible, Asynchronous Task Scheduling (FEATS) in Fortran",16$^{th}$,12:00 PM--12:30 PM
 14,Kale,Laxmikant (Sanjay),data/kale.tex,University of Illinois Urbana-Champaign,Efficiency and raw speed vs generality and versatility in parallel programming models,16$^{th}$,2:00 PM--2:30 PM
-15,Aiken,Alex,data/aiken.tex,Stanford,Lessons Learned From Writing Task-Based Libraries,16$^{th}$,2:30 PM--3:00 PM
+15,\textcolor{blue}{Aiken},\textcolor{blue}{Alex},data/aiken.tex,Stanford,Lessons Learned From Writing Task-Based Libraries,16$^{th}$,2:30 PM--3:00 PM
 16,Valero-Lara,Pedro,data/lara.tex,Oak Ridge National Laboratory,MatRIS: A fully agnostic solution for BLAS and LaPACK codes using the IRIS runtime,16$^{th}$,3:00 PM--3:30 PM
 17,Bosilca,George,data/bosilca.tex,Massachusetts Institute of Technology,TBA,17$^{th}$,9:00 AM--10:00 AM
 18,Simberg,Mikael,data/simberg.tex,Swiss National Supercomputing Centre,HPX and Kokkos: unifying asynchrony and portability on the path towards standardization,17$^{th}$,10:30 AM--11:00 AM
