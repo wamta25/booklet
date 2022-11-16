@@ -15,7 +15,9 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 14,Kale,Laxmikant (Sanjay),data/kale.tex,University of Illinois Urbana-Champaign,Efficiency and raw speed vs generality and versatility in parallel programming models,16$^{th}$,2:00 PM--2:30 PM
 15,\textcolor{blue}{Aiken},\textcolor{blue}{Alex},data/aiken.tex,Stanford,Lessons Learned From Writing Task-Based Libraries,16$^{th}$,2:30 PM--3:00 PM
 16,Valero-Lara,Pedro,data/lara.tex,Oak Ridge National Laboratory,MatRIS: A fully agnostic solution for BLAS and LaPACK codes using the IRIS runtime,16$^{th}$,3:00 PM--3:30 PM
-17,Bosilca,George,data/bosilca.tex,Massachusetts Institute of Technology,TBA,17$^{th}$,9:00 AM--10:00 AM
+17,Bosilca,George,data/bosilca.tex,"University of Tennessee, Knoxville
+",Heterogeneous distributed runtimes for fine-granularity tasks: A possible revolution in parallel programming
+,17$^{th}$,9:00 AM--10:00 AM
 18,Simberg,Mikael,data/simberg.tex,Swiss National Supercomputing Centre,HPX and Kokkos: unifying asynchrony and portability on the path towards standardization,17$^{th}$,10:30 AM--11:00 AM
 19,Mithila,Shifat,data/mithila.tex,Louisiana State University,Scheduling Many-task Applications on Multi-clouds and Hybrid Clouds,17$^{th}$,11:00 AM--11:30 AM
 20,Shingde,Nitish,data/shingde.tex,University of Utah,Matrix Multiplication using Hedgehog's data flow graphs on multi-node GPU architectures,17$^{th}$,11:30 AM--12:00 PM
