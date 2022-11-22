@@ -17,6 +17,6 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 16,Valero-Lara,Pedro,data/lara.tex,Oak Ridge National Laboratory,MatRIS: A fully agnostic solution for BLAS and LaPACK codes using the IRIS runtime,16$^{th}$,3:00 PM--3:30 PM
 17,Bosilca,George,data/bosilca.tex,"University of Tennessee, Knoxville","Heterogeneous distributed runtimes for fine-granularity tasks: A possible revolution in parallel programming",17$^{th}$,9:00 AM--10:00 AM
 18,Simberg,Mikael,data/simberg.tex,Swiss National Supercomputing Centre,HPX and Kokkos: unifying asynchrony and portability on the path towards standardization,17$^{th}$,10:30 AM--11:00 AM
-19,Mithila,Shifat,data/mithila.tex,Louisiana State University,Scheduling Many-task Applications on Multi-clouds and Hybrid Clouds,17$^{th}$,11:00 AM--11:30 AM
+19,Franz,Peter,data/mithila.tex,Louisiana State University,Scheduling Many-task Applications on Multi-clouds and Hybrid Clouds,17$^{th}$,11:00 AM--11:30 AM
 20,Shingde,Nitish,data/shingde.tex,University of Utah,Matrix Multiplication using Hedgehog's data flow graphs on multi-node GPU architectures,17$^{th}$,11:30 AM--12:00 PM
 21,Marcello,Dominic,data/marcello.tex,Louisiana State University,Octo-Tiger: An HPX Based Code for Modelling Three-Dimensional Self-Gravitating Fluids,17$^{th}$,12:00 PM--12:30 PM
