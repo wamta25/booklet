@@ -8,11 +8,11 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 7,Trott,Christian,data/trott.tex,Sandia National Laboratories,"Kokkos' Role for Performance Portability in AMT Systems",15$^{th}$,2:30 PM--3:00 PM
 8,Kaiser,Hartmut,data/kaiser.tex,Louisiana State University,HPX - A C++ Library for Parallelism and Concurrency,15$^{th}$,3:00 PM--3:30 PM
 9,Rouson,Damian,data/rouson.tex,Lawrence Berkeley National Laboratory,PGAS: A View from Berkeley,16$^{th}$,9:00 AM--10:00 AM
-10,Bagusetty,Abhishek,data/bagusetty.tex,Argonne National Laboratory,"Portable Uintah framework for heterogeneous, asynchronous many-task runtime systems for Exascale Architectures",16$^{th}$,10:30 AM--11:00 AM
+10,Kale,Laxmikant (Sanjay),data/kale.tex,University of Illinois Urbana-Champaign,Efficiency and raw speed vs generality and versatility in parallel programming models,16$^{th}$,10:30 AMM--11:00 PM
 11,Lakshmiranganatha,Sumathi,data/lakshmiranganatha.tex,Los Alamos National Laboratory,FleCSI: Scalability Studies and Challenges,16$^{th}$,11:00 AM--11:30 AM
 12,Bergen,Ben,data/bergen.tex,Los Alamos National Laboratory,Recent FleCSI Developments,16$^{th}$,11:30 AM--12:00 PM
 13,Richardson,Brad,data/richardson.tex,"Archaeologic, Inc.","Framework for Extensible, Asynchronous Task Scheduling (FEATS) in Fortran",16$^{th}$,12:00 PM--12:30 PM
-14,Kale,Laxmikant (Sanjay),data/kale.tex,University of Illinois Urbana-Champaign,Efficiency and raw speed vs generality and versatility in parallel programming models,16$^{th}$,2:00 PM--2:30 PM
+14,Bagusetty,Abhishek,data/bagusetty.tex,Argonne National Laboratory,"Portable Uintah framework for heterogeneous, asynchronous many-task runtime systems for Exascale Architectures",16$^{th}$,2:00     PM--2:30 AM
 15,\textcolor{blue}{Aiken},\textcolor{blue}{Alex},data/aiken.tex,Stanford,Lessons Learned From Writing Task-Based Libraries,16$^{th}$,2:30 PM--3:00 PM
 16,Valero-Lara,Pedro,data/lara.tex,Oak Ridge National Laboratory,MatRIS: A fully agnostic solution for BLAS and LaPACK codes using the IRIS runtime,16$^{th}$,3:00 PM--3:30 PM
 17,Bosilca,George,data/bosilca.tex,"University of Tennessee, Knoxville","Heterogeneous distributed runtimes for fine-granularity tasks: A possible revolution in parallel programming",17$^{th}$,9:00 AM--10:00 AM
