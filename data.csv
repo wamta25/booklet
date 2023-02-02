@@ -12,15 +12,11 @@ Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 11,Bergen,Ben,data/bergen.tex,Los Alamos National Laboratory,Recent FleCSI Developments,16$^{th}$,11:00 AM--11:30 AM
 12,Lakshmiranganatha,Sumathi,data/lakshmiranganatha.tex,Los Alamos National Laboratory,FleCSI: Scalability Studies and Challenges,16$^{th}$,11:30 AM--12:00 PM
 13,Sterling,Thomas,data/steriling.tex,Indiana State University,Active Memory Architecture for Asynchronous Graph Processing,16$^{th}$,12:00 PM--12:30 PM
-14,\textcolor{blue}{Bagusetty},Abhishek,data/bagusetty.tex,Argonne National Laboratory,"Portable Uintah framework for heterogeneous, asynchronous many-task runtime systems for Exascale Architectures",16$^{th}$,2:00     PM--2:30 AM
+14,Franz,Peter,data/mithila.tex,Louisiana State University,Scheduling Many-task Applications on Multi-clouds and Hybrid Clouds,16$^{th}$,2:00 PM--2:30 AM  
 15,\textcolor{blue}{Aiken},\textcolor{blue}{Alex},data/aiken.tex,Stanford,Lessons Learned From Writing Task-Based Libraries,16$^{th}$,2:30 PM--3:00 PM
 16,Valero-Lara,Pedro,data/lara.tex,Oak Ridge National Laboratory,MatRIS: A fully agnostic solution for BLAS and LaPACK codes using the IRIS runtime,16$^{th}$,3:00 PM--3:30 PM
 17,Bosilca,George,data/bosilca.tex,"University of Tennessee, Knoxville","Heterogeneous distributed runtimes for fine-granularity tasks: A possible revolution in parallel programming",17$^{th}$,9:00 AM--10:00 AM
 18,\textcolor{blue}{Simberg},Mikael,data/simberg.tex,Swiss National Supercomputing Centre,HPX and Kokkos: unifying asynchrony and portability on the path towards standardization,17$^{th}$,10:30 AM--11:00 AM
-19,Franz,Peter,data/mithila.tex,Louisiana State University,Scheduling Many-task Applications on Multi-clouds and Hybrid Clouds,17$^{th}$,11:00 AM--11:30 AM
+19,\textcolor{blue}{Bagusetty},Abhishek,data/bagusetty.tex,Argonne National Laboratory,"Portable Uintah framework for heterogeneous, asynchronous many-task runtime systems for Exascale Architectures",17$^{th}$,11:00 AM--11:30 AM
 20,Shingde,Nitish,data/shingde.tex,University of Utah,Matrix Multiplication using Hedgehog's data flow graphs on multi-node GPU architectures,17$^{th}$,11:30 AM--12:00 PM
 21,Marcello,Dominic,data/marcello.tex,Louisiana State University,Octo-Tiger: An HPX Based Code for Modelling Three-Dimensional Self-Gravitating Fluids,17$^{th}$,12:00 PM--12:30 PM
-
-
-
-
