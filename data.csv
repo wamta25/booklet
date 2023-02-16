@@ -1,7 +1,7 @@
 Talk,Last,First,Abstract,Affiliation,Title,Date,Time
 1,Strout,Michelle,data/strout.tex,HPE,Application Examples of Leveraging Task Parallelism with Chapel,15$^{th}$,9:00 AM--10:00 AM
 2,Richardson,Brad,data/richardson.tex,"Archaeologic, Inc.","Framework for Extensible, Asynchronous Task Scheduling (FEATS) in Fortran",15$^{th}$,10:30 AM--11:00 AM
-3,\textcolor{blue}{Thoman},\textcolor{blue}{Peter},data/thoman.tex,The University of Padua,Command Horizons: Coalescing Data Dependencies while Maintaining Asynchronicity,15$^{th}$,11:00 AM--11:30 AM
+3,\textcolor{blue}{Thoman},\textcolor{blue}{Peter},data/thoman.tex,University of Innsbruck,Command Horizons: Coalescing Data Dependencies while Maintaining Asynchronicity,15$^{th}$,11:00 AM--11:30 AM
 4,\textcolor{blue}{Delaney},\textcolor{blue}{Hugh},data/burns.tex,Codeplay Software,Performance Portability using Standard C++ with SYCL,15$^{th}$,11:30 AM--12:00 PM
 5,Wong,Michael,data/wong.tex,Codeplay Software,"Khronos SYCL heterogeneous programming for future codesign with RISC-V, HPC, and AI",15$^{th}$,12:00 PM--12:30 PM
 6,Ciesko,Jan,data/ciesko.tex,Sandia National Laboratories,Qthreads: A Lightweight Threading Library for the Many-core Era ,15$^{th}$,2:00 PM--2:30 PM
