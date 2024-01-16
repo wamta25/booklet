@@ -1,22 +1,23 @@
-Talk,Last,First,Abstract,Affiliation,Title,Date,Time
-1,Strout,Michelle,data/strout.tex,HPE,Application Examples of Leveraging Task Parallelism with Chapel,15$^{th}$,9:00 AM--10:00 AM
-2,Richardson,Brad,data/richardson.tex,"Archaeologic, Inc.","Framework for Extensible, Asynchronous Task Scheduling (FEATS) in Fortran",15$^{th}$,10:30 AM--11:00 AM
-3,\textcolor{blue}{Thoman},\textcolor{blue}{Peter},data/thoman.tex,University of Innsbruck,Command Horizons: Coalescing Data Dependencies while Maintaining Asynchronicity,15$^{th}$,11:00 AM--11:30 AM
-4,\textcolor{blue}{Delaney},\textcolor{blue}{Hugh},data/burns.tex,Codeplay Software,Performance Portability using Standard C++ with SYCL,15$^{th}$,11:30 AM--12:00 PM
-5,Wong,Michael,data/wong.tex,Codeplay Software,"Khronos SYCL heterogeneous programming for future codesign with RISC-V, HPC, and AI",15$^{th}$,12:00 PM--12:30 PM
-6,Ciesko,Jan,data/ciesko.tex,Sandia National Laboratories,Qthreads: A Lightweight Threading Library for the Many-core Era ,15$^{th}$,2:00 PM--2:30 PM
-7,\textcolor{blue}{Trott},Christian,data/trott.tex,Sandia National Laboratories,"Kokkos' Role for Performance Portability in AMT Systems",15$^{th}$,2:30 PM--3:00 PM
-8,Kaiser,Hartmut,data/kaiser.tex,Louisiana State University,HPX - A C++ Library for Parallelism and Concurrency,15$^{th}$,3:00 PM--3:30 PM
-9,Rouson,Damian,data/rouson.tex,Lawrence Berkeley National Laboratory,PGAS: A View from Berkeley,16$^{th}$,9:00 AM--10:00 AM
-10,\textcolor{blue}{Kale},Laxmikant (Sanjay),data/kale.tex,University of Illinois Urbana-Champaign,Efficiency and raw speed vs generality and versatility in parallel programming models,16$^{th}$,10:30 AMM--11:00 PM
-11,Bergen,Ben,data/bergen.tex,Los Alamos National Laboratory,Recent FleCSI Developments,16$^{th}$,11:00 AM--11:30 AM
-12,Lakshmiranganatha,Sumathi,data/lakshmiranganatha.tex,Los Alamos National Laboratory,FleCSI: Scalability Studies and Challenges,16$^{th}$,11:30 AM--12:00 PM
-13,Sterling,Thomas,data/steriling.tex,Indiana State University,Active Memory Architecture for Asynchronous Graph Processing,16$^{th}$,12:00 PM--12:30 PM
-14,Franz,Peter,data/mithila.tex,Louisiana State University,Scheduling Many-task Applications on Multi-clouds and Hybrid Clouds,16$^{th}$,2:00 PM--2:30 AM  
-15,\textcolor{blue}{Aiken},\textcolor{blue}{Alex},data/aiken.tex,Stanford,Lessons Learned From Writing Task-Based Libraries,16$^{th}$,2:30 PM--3:00 PM
-16,Valero-Lara,Pedro,data/lara.tex,Oak Ridge National Laboratory,MatRIS: A fully agnostic solution for BLAS and LaPACK codes using the IRIS runtime,16$^{th}$,3:00 PM--3:30 PM
-17,Bosilca,George,data/bosilca.tex,"University of Tennessee, Knoxville","Heterogeneous distributed runtimes for fine-granularity tasks: A possible revolution in parallel programming",17$^{th}$,9:00 AM--10:00 AM
-18,\textcolor{blue}{Simberg},Mikael,data/simberg.tex,Swiss National Supercomputing Centre,HPX and Kokkos: unifying asynchrony and portability on the path towards standardization,17$^{th}$,10:30 AM--11:00 AM
-19,\textcolor{blue}{Bagusetty},Abhishek,data/bagusetty.tex,Argonne National Laboratory,"Portable Uintah framework for heterogeneous, asynchronous many-task runtime systems for Exascale Architectures",17$^{th}$,11:00 AM--11:30 AM
-20,Shingde,Nitish,data/shingde.tex,University of Utah,Matrix Multiplication using Hedgehog's data flow graphs on multi-node GPU architectures,17$^{th}$,11:30 AM--12:00 PM
-21,Marcello,Dominic,data/marcello.tex,Louisiana State University,Octo-Tiger: An HPX Based Code for Modelling Three-Dimensional Self-Gravitating Fluids,17$^{th}$,12:00 PM--12:30 PM
+Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time
+1,Vetter,Jeffrey,,Oak Ridge National Laboratory,Deep Codesign in the Post-Exascale Computing Era,KEYNOTE,15$^{th}$,9:00 AM--10:00 AM
+2,Furmento,Nathalie,,Inria,Optimizing Parallel System Efficiency: Dynamic Task Graph Adaptation with Recursive Tasks,RUNTIME,15$^{th}$,10:30 AM--11:00 AM
+3,Monsalve Diaz,Jose M,,Argonne National Laboratory,On scheduling languages for tasking execution models,RUNTIME,15$^{th}$,11:00 AM--11:30 AM
+4,Posner,Jonas,,University of Kassel,Evolving APGAS Programs: Automatic and Transparent Resource Adjustments at Runtime,RUNTIME,15$^{th}$,11:30 AM--12:00 AM
+5,Cao,Qinglei,,Saint Louis University,Evaluating PaRSEC for Advanced Matrix Computations in Climate and Weather Prediction,LA APP,15$^{th}$,1:30 PM--2:00 PM
+6,Strack,Alexander,,University of Stuttgart,Experiences Porting Distributed Applications to Asynchronous Tasks: A Multidimensional FFT Case-study,FFT APP,15$^{th}$,2:00 PM--2:30 PM
+7,Solc\`{a},Raffaele,,ETH Zurich,DLA-Future: a task-based linear algebra library which provides a GPU-enabled distributed eigensolver.,LA,15$^{th}$,2:30 PM--3:00 PM
+8,Morris,Max,,Louisiana State University,A Suite of Codes for Benchmarking and Testing Mutex-Based Parallel Systems,BENCH,15$^{th}$,3:30 PM--4:00 PM
+9,Diehl,Patrick,,Louisiana State University,HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application,CLOUD BENCH,15$^{th}$,4:00 PM--4:30 PM
+10,Treichler,Jean,,Nvidia,"Too Much Parallelism, and the Need for Compiler Support in Asynchronous Many-Task Systems",KEYNOTE,16$^{th}$,9:00 AM--10:00 AM
+11,Nather,"R\""udiger",,University of Kassel,Futures for dynamic dependencies -- Parallelizing the H-LU Factorization,LA,16$^{th}$,10:30 AM--11:00 AM
+12,Schuchart,Joseph,,"University of Tennessee, Knoxville",Scalable Block-Sparse Matrix Multiplication Using Template Task Graphs,LA,16$^{th}$,11:00 AM--11:30 AM
+13,Monil,Mohammad Alaul Haque,,Oak Ridge National Laboratory,A Peek into Multi-Vendor and Multi-device Heterogeneity and Portability of MatRIS using IRIS Task based Runtime,LA RUNTIME,16$^{th}$,11:30 AM--12:00 PM
+14,Bhosale,Aditya,,University of Illinois Urbana-Champaign,An abstraction for distributed stencil computations using Charm++,APP API,16$^{th}$,1:30 PM--2:00 PM
+15,Mirchandaney,Seema,,SLAC National Accelerator Laboratory,Speaking Pygion: Experiences Writing an Exascale Single Particle Imaging Code,APP,16$^{th}$,2:00 PM--2:30 PM
+16,Morales,Nicholas,,Sandia National Laboratories,Distributed Asynchronous Contact Mechanics with DARMA/vt,APP,16$^{th}$,3:00 PM--3:30 PM
+17,Wong,Elaine,,Oak Ridge National Laboratory,Rethinking Programming Paradigms in the QC-HPC Context,APP,16$^{th}$,3:30 PM--4:00 PM
+18,Harrison,Robert,,Stony Brook University,TBA,KEYNOTE,17$^{th}$,9:00 AM--10:00 AM
+19,Zane,Fink,,University of Illinois at Urbana-Champaign,Only Pay for What You Need: Registration-Based Queueing in Asynchronous Many-Task Systems,COMM RUNTIME,17$^{th}$,10:30 AM--11:00 AM
+20,Chandrasekar,Kavitha,,University of Illinois at Urbana-Champaign,Dynamic Tuning of Core Count to Maximize Performance in Object-based Runtime systems,RUNTIME,17$^{th}$,11:00 AM--11:30 AM
+21,Sala,Kevin,,Barcelona Supercomputing Center,The Asynchronous Low-level Programming Interface (ALPI): Enabling Portable Task-Aware Libraries Across Different Runtime Systems,RUNTIME,17$^{th}$,11:30 AM--12:00 AM
+22,Miniskar,Narasinga Rao,,Oak Ridge National Laboratory,IRIS Reimagined: Advancements in Intelligent Runtime System for Task-Based Programming,RUNTIME,17$^{th}$,12:00 AM--12:30 PM
