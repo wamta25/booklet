@@ -1,8 +1,0 @@
-Kokkos is at its core a data parallel C++ Programming Model designed for Performance Portability.
-Originally developed at Sandia National Laboratories, it is now maintained by an open-source development team spanning multiple US National Laboratories.
-Today, Kokkos is commonly used in high performance computing applications and libraries in conjunction with MPI.
-This mix of MPI and Kokkos establishes a clear separation of concerns: Kokkos is used to expose fine grained data parallelism,
-which can be mapped portably to all common HPC hardware architectures,
-while MPI deals with coarse grained parallelism - in particular at an inter-node level.
-This talk will discuss how Kokkos could - and likely should - play the same role for asynchronous many-task models.
-To that end the presentation will review the high-level design of Kokkos integration into Legion, HPX, and Uintah, and point out opportunities of leveraging capabilities in the larger Kokkos EcoSystem such as portable tools and math library support.

@@ -1,0 +1,9 @@
+The efficiency of both heterogeneous and homogeneous parallel systems can be significantly enhanced by using task-based programming models. One such model, the Sequential Task Flow (STF) model, only allows task graphs with static tasks sizes. Indeed, while this model proves effective in managing task graphs efficiently, the task granularity must be chosen when submitting the graph.
+
+However, finding the ideal task granularity to fully exploit a parallel system is a challenging problem.
+
+Firstly, for heterogeneous systems, the optimal task size varies across different processing units. Secondly, even for homogeneous systems, the best granularity also depends on the idleness of the computing units, for example, either when many tasks are ready, or when there is a lack of parallelism.
+
+To address these issues, we use an extension of StarPU's STF model, which allows tasks to transform into subgraphs at runtime -- referred to as recursive tasks. We have enhanced recursive tasks, by introducing the concept of a "splitter", a tool positioned between task submission and scheduling. This tool makes just-in-time decisions to transform a task into a subgraph with the appropriate granularity.
+
+We provide an early evaluation on homogeneous shared-memory systems and an ongoing work-in-progress for heterogeneous architectures. These first results demonstrate that the just-in-time adaptation of the task graph opens up new opportunities for increased performance.

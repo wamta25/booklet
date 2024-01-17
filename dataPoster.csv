@@ -1,7 +1,3 @@
 Talk,Last,First,Abstract,Affiliation,Title,Date,Time
-1,Yan,Jiakun,data/yan.tex,University of Illinois Urbana-Champaign,Efficient Message Passing Support for Asynchronous Many-Task Systems,,,
-2,Gonidelis,Ioannis,data/donidelis.tex,STE$\vert\vert$AR Group,Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench,,,
-3,He,Chuanqiu,data/he.tex,Louisiana State University,Performance analysis and optimization on adapted Rotate algorithm,,,
-4,Morris,Max,data/morris.tex,Louisiana State University,The Guardian Language,,,
-5,Mohammadiporshokooh,Karame,data/mohammadiporshokooh.tex,Louisiana State University,Configuring performance of standard parallel algorithms using HPX,,,
-6,Cole,Maxwell,data/cole.tex,Louisiana State University,Computational feasibility of simulating radiation induced changes in vasculature and blood flow rates,,,
+1,Mor,Omri,data/mor.tex,University of Illinois Urbana-Champaign,A Lightweight Communication Interface for Asynchronous Many-Task Systems,,
+2,Monil,Mohammad Alaul Haque,data/monil.tex,Oak Ridge National Laboratory,MatRIS 1.0: A Portable abstraction of Math Library using IRIS Task based Runtime for Multi-device and Multi-Vendor Heterogeneity,,

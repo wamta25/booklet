@@ -1,6 +1,0 @@
-\begin{center}
-\textit{Co-Authors: Patrick	Diehl, Gregor Daiss, Sagiv	Shiber, and Hartmut Kaiser}
-\end{center} 
-Octo-Tiger is an AMT based tool for modelling three-dimensional self-gravitating astrophysical fluids. It was designed to be particularly suited for modelling interacting binary star systems. It uses a finite volume technique to model the hydrodynamics and the fast multipole method to model the gravity. It is written entirely in C++ and uses HPX (High Performance ParalleX) for both node-level and distributed parallelism. The hydrodynamics and gravity modules have scalar, CUDA, HIP, and Kokkos (with SIMD support) implementations Octo-Tiger has been executed on a wide range HPC platforms including Japan's Fugaku, NERC's CORI and Perlmutter, ORNL's Summit, and CSCS's PizDaint. Here we will briefly describe Octo-Tiger, show some scientific results from a double white dwarf merger, and highlight our efforts to
-optimize the code. We will also outline the recent addition of a radiation transport module using explicit time integration and a two-moment
-closure relation.
