@@ -4,7 +4,7 @@
  \DTLgetvalueforkey{\thevalue}{Last}{data}{Talk}{#2}%
 }
 
-\newcommand*{\lastname}[2]{
+\newcommand*{\lastname}[1]{
 \getCol{1}{#1}
 \thevalue 
 }
@@ -17,8 +17,23 @@
 
 
 
-\newcommand*{\gettime}[2]{
+\newcommand*{\gettime}[1]{
 \getCols{1}{#1}
 \kern-1ex\thevalues
+}
+
+
+
+
+\newcommand*{\thetitlevalues}{}
+\newcommand*{\getTitleCols}[2]{%
+ \DTLgetvalueforkey{\thetitlevalues}{Title}{data}{Talk}{#2}%
+}
+
+
+
+\newcommand*{\gettitle}[1]{
+\getTitleCols{1}{#1}
+\kern-1ex\thetitlevalues
 }
 
