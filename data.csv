@@ -1,24 +1,24 @@
-Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time
-1,Vetter,Jeffrey,data/vetter.tex,Oak Ridge National Laboratory,Deep Codesign in the Post-Exascale Computing Era,KEYNOTE,14$^{th}$,9:00 AM--10:00 AM
-2,Furmento,Nathalie,data/furmento.tex,INRIA,Optimizing Parallel System Efficiency: Dynamic Task Graph Adaptation with Recursive Tasks,RUNTIME,14$^{th}$,10:30 AM--11:00 AM
-3,Monsalve Diaz,Jose M,data/diaz.tex,Argonne National Laboratory,On scheduling languages for tasking execution models,RUNTIME,14$^{th}$,11:00 AM--11:30 AM
-4,Posner,Jonas,data/posner.tex,University of Kassel,Evolving APGAS Programs: Automatic and Transparent Resource Adjustments at Runtime,RUNTIME,14$^{th}$,11:30 AM--12:00 AM
-5,Cao,Qinglei,data/cao.tex,Saint Louis University,Evaluating PaRSEC for Advanced Matrix Computations in Climate and Weather Prediction,LA APP,14$^{th}$,1:30 PM--2:00 PM
-6,Strack,Alexander,data/strack.tex,University of Stuttgart,Experiences Porting Distributed Applications to Asynchronous Tasks: A Multidimensional FFT Case-study,FFT APP,14$^{th}$,2:00 PM--2:30 PM
-7,Solc\`{a},Raffaele,data/solca.tex,ETH Zurich,DLA-Future: a task-based linear algebra library which provides a GPU-enabled distributed eigensolver.,LA,14$^{th}$,2:30 PM--3:00 PM
-8,Morris,Max,data/morris.tex,Louisiana State University,A Suite of Codes for Benchmarking and Testing Mutex-Based Parallel Systems,BENCH,14$^{th}$,3:30 PM--4:00 PM
-9,Diehl,Patrick,data/diehl.tex,Louisiana State University,HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application,CLOUD BENCH,14$^{th}$,4:00 PM--4:30 PM
-23,Huang,Tsung-Wei,data/huang.tex,University of Wisconsin at Madison,Taskflow: A General-purpose Task-parallel Programming System,APP,14$^{th}$,4:30 PM--5:00 PM
-10,Treichler,Jean,data/treichler.tex,NVIDIA,"Too Much Parallelism, and the Need for Compiler Support in Asynchronous Many-Task Systems",KEYNOTE,15$^{th}$,9:00 AM--10:00 AM
-11,Nather,"R\""udiger",data/nather.tex,University of Kassel,Futures for dynamic dependencies -- Parallelizing the H-LU Factorization,LA,15$^{th}$,10:30 AM--11:00 AM
-12,Schuchart,Joseph,data/schuchart.tex,"University of Tennessee, Knoxville",Scalable Block-Sparse Matrix Multiplication Using Template Task Graphs,LA,15$^{th}$,11:00 AM--11:30 AM
-13,Monil,Mohammad Alaul Haque,data/monil.tex,Oak Ridge National Laboratory,A Peek into Multi-Vendor and Multi-device Heterogeneity and Portability of MatRIS using IRIS Task based Runtime,LA RUNTIME,15$^{th}$,11:30 AM--12:00 PM
-14,Bhosale,Aditya,data/bhosale.tex,University of Illinois Urbana-Champaign,An abstraction for distributed stencil computations using Charm++,APP API,15$^{th}$,1:30 PM--2:00 PM
-15,Mirchandaney,Seema,data/mirchandaney.tex,SLAC National Accelerator Laboratory,Speaking Pygion: Experiences Writing an Exascale Single Particle Imaging Code,APP,15$^{th}$,2:00 PM--2:30 PM
-16,Morales,Nicholas,data/morales.tex,Sandia National Laboratories,Distributed Asynchronous Contact Mechanics with DARMA/vt,APP,15$^{th}$,2:30 PM--3:00 PM
-17,Wong,Elaine,data/wong.tex,Oak Ridge National Laboratory,Rethinking Programming Paradigms in the QC-HPC Context,APP,15$^{th}$,3:00 PM--3:30 PM
-18,Harrison,Robert,data/harrison.tex,Stony Brook University,MADNESS: A task-based application and runtime,KEYNOTE,16$^{th}$,9:00 AM--10:00 AM
-19,Fink,Zane,data/fink.tex,University of Illinois at Urbana-Champaign,Only Pay for What You Need: Registration-Based Queueing in Asynchronous Many-Task Systems,COMM RUNTIME,16$^{th}$,10:30 AM--11:00 AM
-20,Chandrasekar,Kavitha,data/chandreskar.tex,University of Illinois at Urbana-Champaign,Dynamic Tuning of Core Count to Maximize Performance in Object-based Runtime systems,RUNTIME,16$^{th}$,11:00 AM--11:30 AM
-21,Sala,Kevin,data/sala.tex,Barcelona Supercomputing Center,The Asynchronous Low-level Programming Interface (ALPI): Enabling Portable Task-Aware Libraries Across Different Runtime Systems,RUNTIME,16$^{th}$,11:30 AM--12:00 AM
-22,Miniskar,Narasinga Rao,data/miniskar.tex,Oak Ridge National Laboratory,IRIS Reimagined: Advancements in Intelligent Runtime System for Task-Based Programming,RUNTIME,16$^{th}$,12:00 AM--12:30 PM
+Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time,,Registered?
+1,Vetter,Jeffrey,data/vetter.tex,Oak Ridge National Laboratory,Deep Codesign in the Post-Exascale Computing Era,KEYNOTE,14$^{th}$,9:00 AM--10:00 AM,,K
+2,Furmento,Nathalie,data/furmento.tex,INRIA,Optimizing Parallel System Efficiency: Dynamic Task Graph Adaptation with Recursive Tasks,RUNTIME,14$^{th}$,10:30 AM--11:00 AM,,1
+3,Monsalve Diaz,Jose M,data/diaz.tex,Argonne National Laboratory,On scheduling languages for tasking execution models,RUNTIME,14$^{th}$,11:00 AM--11:30 AM,,1
+4,Posner,Jonas,data/posner.tex,University of Kassel,Evolving APGAS Programs: Automatic and Transparent Resource Adjustments at Runtime,RUNTIME,14$^{th}$,11:30 AM--12:00 AM,,1
+5,Cao,Qinglei,data/cao.tex,Saint Louis University,Evaluating PaRSEC for Advanced Matrix Computations in Climate and Weather Prediction,LA APP,14$^{th}$,1:00 PM--1:30 PM,,1
+6,Strack,Alexander,data/strack.tex,University of Stuttgart,Experiences Porting Distributed Applications to Asynchronous Tasks: A Multidimensional FFT Case-study,FFT APP,14$^{th}$,1:30 PM--2:00 PM,,1
+7,Solc\`{a},Raffaele,data/solca.tex,ETH Zurich,DLA-Future: a task-based linear algebra library which provides a GPU-enabled distributed eigensolver.,LA,14$^{th}$,2:00 PM--2:30 PM,,1
+8,Morris,Max,data/morris.tex,Louisiana State University,A Suite of Codes for Benchmarking and Testing Mutex-Based Parallel Systems,BENCH,14$^{th}$,3:00 PM--3:30 PM,,1
+15,Aiken,Alex,data/mirchandaney.tex,Stanford University,Speaking Pygion: Experiences Writing an Exascale Single Particle Imaging Code,APP,14$^{th}$,3:30 PM--4:00 PM,,1
+23,Huang,Tsung-Wei,data/huang.tex,University of Wisconsin at Madison,Taskflow: A General-purpose Task-parallel Programming System,APP,14$^{th}$,2:00 PM--2:30 PM,,1
+10,Treichler,Jean,data/treichler.tex,NVIDIA,"Too Much Parallelism, and the Need for Compiler Support in Asynchronous Many-Task Systems",KEYNOTE,15$^{th}$,9:00 AM--10:00 AM,,K
+11,Nather,"R\""udiger",data/nather.tex,University of Kassel,Futures for dynamic dependencies -- Parallelizing the H-LU Factorization,LA,15$^{th}$,10:30 AM--11:00 AM,,1
+12,Lisito,Alycia,data/lisito.tex,Eviden,Enhancing sparse direct solver scalability through runtime system automatic data partition.,LA,15$^{th}$,11:00 AM--11:30 AM,,1
+13,Monil,Mohammad Alaul Haque,data/monil.tex,Oak Ridge National Laboratory,A Peek into Multi-Vendor and Multi-device Heterogeneity and Portability of MatRIS using IRIS Task based Runtime,LA RUNTIME,15$^{th}$,11:30 AM--12:00 PM,,1
+14,Bhosale,Aditya,data/bhosale.tex,University of Illinois Urbana-Champaign,An abstraction for distributed stencil computations using Charm++,APP API,15$^{th}$,1:00 PM--1:30 PM,,1
+9,Diehl,Patrick,data/diehl.tex,Louisiana State University,HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application,CLOUD BENCH,15$^{th}$,1:30 PM--2:00 PM,,1
+16,Morales,Nicholas,data/morales.tex,Sandia National Laboratories,Distributed Asynchronous Contact Mechanics with DARMA/vt,APP,15$^{th}$,3:00 PM--3:30 PM,,V
+17,Wong,Elaine,data/wong.tex,Oak Ridge National Laboratory,Rethinking Programming Paradigms in the QC-HPC Context,APP,15$^{th}$,3:30 PM--4:00 PM,,1
+18,Harrison,Robert,data/harrison.tex,Stony Brook University,MADNESS: A task-based application and runtime,KEYNOTE,16$^{th}$,9:00 AM--10:00 AM,,K
+19,Fink,Zane,data/fink.tex,University of Illinois at Urbana-Champaign,Only Pay for What You Need: Registration-Based Queueing in Asynchronous Many-Task Systems,COMM RUNTIME,16$^{th}$,10:30 AM--11:00 AM,,
+20,Chandrasekar,Kavitha,data/chandreskar.tex,University of Illinois at Urbana-Champaign,Dynamic Tuning of Core Count to Maximize Performance in Object-based Runtime systems,RUNTIME,16$^{th}$,11:00 AM--11:30 AM,,1
+21,Sala,Kevin,data/sala.tex,Barcelona Supercomputing Center,The Asynchronous Low-level Programming Interface (ALPI): Enabling Portable Task-Aware Libraries Across Different Runtime Systems,RUNTIME,16$^{th}$,11:30 AM--12:00 AM,,1
+22,Miniskar,Narasinga Rao,data/miniskar.tex,Oak Ridge National Laboratory,IRIS Reimagined: Advancements in Intelligent Runtime System for Task-Based Programming,RUNTIME,16$^{th}$,12:00 AM--12:30 PM,,1
