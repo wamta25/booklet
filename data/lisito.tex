@@ -1,0 +1,12 @@
+With the ever-growing number of cores per node, it is critical for
+runtime systems and applications to adapt the task granularity to scale
+on recent architectures. Among applications, sparse direct solvers are a
+time-consuming step and the task granularity is rarely adapted to large
+many-core systems. In this paper, we investigate the use of runtime
+systems to automatically partition tasks in order to achieve more
+parallelism and refine the task granularity. Experiments are conducted
+on the new version of the PaStiX solver, which has been completely
+rewritten to better integrate modern task-based runtime systems. The
+results demonstrate the increase in scalability achieved by the solver
+thanks to the adaptive task granularity provided by the StarPU runtime
+system.
