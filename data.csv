@@ -9,7 +9,7 @@ Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time,,Registered?
 8,Morris,Max,data/morris.tex,Louisiana State University,A Suite of Codes for Benchmarking and Testing Mutex-Based Parallel Systems,BENCH,14$^{th}$,3:00 PM--3:30 PM,,1
 15,Aiken,Alex,data/mirchandaney.tex,Stanford University,Speaking Pygion: Experiences Writing an Exascale Single Particle Imaging Code,APP,14$^{th}$,3:30 PM--4:00 PM,,1
 23,Huang,Tsung-Wei,data/huang.tex,University of Wisconsin at Madison,Taskflow: A General-purpose Task-parallel Programming System,APP,14$^{th}$,2:00 PM--2:30 PM,,1
-10,Treichler,Jean,data/treichler.tex,NVIDIA,"Too Much Parallelism, and the Need for Compiler Support in Asynchronous Many-Task Systems",KEYNOTE,15$^{th}$,9:00 AM--10:00 AM,,K
+10,Treichler,Sean,data/treichler.tex,NVIDIA,"Too Much Parallelism, and the Need for Compiler Support in Asynchronous Many-Task Systems",KEYNOTE,15$^{th}$,9:00 AM--10:00 AM,,K
 11,Nather,"R\""udiger",data/nather.tex,University of Kassel,Futures for dynamic dependencies -- Parallelizing the H-LU Factorization,LA,15$^{th}$,10:30 AM--11:00 AM,,1
 12,Lisito,Alycia,data/lisito.tex,Eviden,Enhancing sparse direct solver scalability through runtime system automatic data partition.,LA,15$^{th}$,11:00 AM--11:30 AM,,1
 13,Cao,Qinglei,data/cao.tex,Saint Louis University,Evaluating PaRSEC for Advanced Matrix Computations in Climate and Weather Prediction,LA APP,15$^{th}$,11:30 AM--12:00 PM,,1
