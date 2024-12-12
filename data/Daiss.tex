@@ -1,0 +1,8 @@
+GPU implementations for algorithms that involve many but fine-grained compute kernels often struggle with both GPU API overheads and device starvation.
+One way to overcome this is kernel fusion.
+In this work, we aim to compare two distinct strategies for kernel fusion with SYCL.
+The first one is using the SYCL graph extension, which allows developers to record a graph of kernel invocations and launch the recorded subset as one single kernel upon repetition.
+The second strategy uses a task-based runtime system, HPX, and a kernel-fusion executor from the library CPPuddle.
+Here, similar kernel invocations are fused into a single kernel on-the-fly without requiring any graph recording. Instead, this scheme relies on additional input from the developer and uses other criteria to decide whether to fuse kernels together during the runtime.
+Both strategies come with their own upsides and downsides, as well as different runtime overheads.
+Thus, in this work, compare both these solutions to kernel fusion. We focus primarily on the performance using a sample algorithm, however, we also discuss their usability for different scenarios.

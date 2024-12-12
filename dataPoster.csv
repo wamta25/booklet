@@ -1,3 +1,2 @@
 Talk,Last,First,Abstract,Affiliation,Title,Date,Time
-1,Mor,Omri,data/mor.tex,University of Illinois Urbana-Champaign,A Lightweight Communication Interface for Asynchronous Many-Task Systems,,
-2,Monil,Mohammad Alaul Haque,data/monil.tex,Oak Ridge National Laboratory,MatRIS 1.0: A Portable abstraction of Math Library using IRIS Task based Runtime for Multi-device and Multi-Vendor Heterogeneity,,
+1,Yan,Jiakunf,data/Jiakun_poster.tex,University of Illinois Urbana-Champaign,HPX+MPICH: Bridging the Gap between Asynchronous Many-Task Systems and MPI with VCIs and Continuation,,

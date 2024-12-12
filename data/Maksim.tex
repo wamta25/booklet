@@ -1,0 +1,11 @@
+Python is the de-facto language for software development in artificial intelligence (AI).
+Commonly used libraries, like PyTorch and TensorFlow, rely on parallelization built into their BLAS backends to achieve speed-up on CPUs.
+However, only applying parallelization in a low-level backend can lead to performance and scaling degradation.
+In this work, we propose a novel way of binding task-based C++ code built on the asynchronous runtime model HPX to a high-level Python API.
+We develop a parallel Gaussian Process (GP) library as an application.
+The resulting Python library GPXPy combines the ease of use of commonly available GP libraries with the performance and scalability of asynchronous task execution.
+We observe almost no overhead when binding the asynchronous HPX code using pybind.
+In addition, GPXPy shows good scaling up to 64 cores on an AMD EPYC 7742 CPU.
+Compared to GPyTorch and GPflow, our library achieves a prediction speed-up of factor 10.5 and 16.5, respectively.s
+Even compared to GPyTorch with LOVE, which rapidly approximates the predictive covariance matrix, our approach shows a speed-up of up to factor 2.8.
+These results showcase the potential of using asynchronous tasks within Python-based AI applications.

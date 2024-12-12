@@ -1,0 +1,9 @@
+Modern supercomputers nowadays consist of millions of compute cores. This growing number increases the likelihood of process failures, making fault tolerant programs essential.
+
+Traditionally, fault tolerance is realized using Checkpoint/Restart (C/R), where process states are periodically saved to disk, and a collective restart is performed after failure. This approach is transparent to application programmers, but incurs a high running time overhead.
+
+While C/R is a general-purpose technique, this paper deals with a specific fault tolerance technique for Asynchronous Many-Task (AMT) programs on clusters. In AMT, the computation is divided into tasks that are processed by worker processes running on different cluster nodes. For load balancing, the workers may employ cooperative or coordinated work stealing, where idle workers steal tasks from others.
+
+AMT is well-amenable to fault tolerance, because the runtime may save the clearly defined task interfaces instead of process states. This approach, called task-level checkpointing (TC), is more efficient than C/R, and transparent to application programmers as well. So-far, TC has only been proposed for independent and nested fork-join tasks, which impose strict rules for task communication, and for cooperative work stealing. Future-based cooperation (FBC) is an increasingly popular and less strict variant of AMT, where tasks communicate through futures. Further, a recent study with independent tasks reported significant performance gains from deploying coordinated instead of cooperative work stealing.
+
+This paper proposes a TC scheme for FBC programs with coordinated work stealing. In first experiments, we observed low running time overheads.
