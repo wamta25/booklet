@@ -3,7 +3,7 @@ Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time,,Registered?
 2,Yan,Jiakun,data/Jiakun.tex,University of Illinois Urbana-Champaign,Contemplating a Lightweight Communication Interface for Asynchronous Many-Task Systems,RUNTIME,19$^{th}$,10:30 AM--11:00 AM,,
 3,Bouteiller,Aurelien,data/Aurelien.tex,"	University of Tennessee Knoxville","Comparing and Contrasting User and Runtime Directed Data Placement Strategies for Owner-Compute, Multi-Accelerator Distributed Task Based Scheduling",RUNTIME,19$^{th}$,11:00 AM--11:30 AM,,
 4,Atre,Shreyas,data/Shreyas.tex,lsu center for computing and technology,Chplx an Asynchronous Many Task Runtime Foundation for Chapel,RUNTIIME,19$^{th}$,11:30 AM--12:00 AM,,
-5,Penacoba Veigas,Raul,data/Raul.tex,Barcelona Supercomputing Center,"	Supporting OpenMP Free Agents by Leveraging the nOS-V Threading Library",RUNTIME,19$^{th}$,1:00 PM--1:30 PM,,
+5,Vicenc,Querol,data/Raul.tex,Barcelona Supercomputing Center,"	Supporting OpenMP Free Agents by Leveraging the nOS-V Threading Library",RUNTIME,19$^{th}$,1:00 PM--1:30 PM,,
 6,Nather,Rudiger,data/Rudiger.tex,University of Kassel,Futures in Task Graphs Extending Taskflow With Dynamic Data Dependencies,RUNTIME,19$^{th}$,1:30 PM--2:00 PM,,
 7,Mohammadiporshokooh,Karame,data/Karame.tex,Louisiana State University,"	Adaptively Optimizing the Performance of HPX's Parallel Algorithms",RUNTIME,19$^{th}$,2:00 PM--2:30 PM,,
 8,Reitz,Mia,data/Mia.tex,University of Kassel,Fail-stop Failure Protection for Coordinated Work Stealing of Tasks that Communicate through Futures,Fault Tolerance,19$^{th}$,3:00 PM--3:30 PM,,
