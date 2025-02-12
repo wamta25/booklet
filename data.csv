@@ -10,7 +10,7 @@ Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time,,Registered?,Note
 9,Anthony Cabrera,Anthony,data/Anthony.tex,Oak Ridge National Laboratory,Q-IRIS: The Evolution of the IRIS Task-Based Runtime to Enable Classical-Quantum Workflows,Quantum,19$^{th}$,3:30 PM--4:00 PM,,"Yes, Narasinga Rao Miniskar",Submitted
 10,Christian Trott,Christian,data/Christian.tex,Sandia National Laboratories,Keynote II: Task-Graphs: Why aren't we all using them?,KEYNOTE,20$^{th}$,9:00 AM--10:00 AM,,Keynote,
 11,Jed Brown,Jed,data/Jed.tex,University of Colorado Boulder,Type-level invariants for SPMD programming with Rust,BENCH,20$^{th}$,10:30 AM--11:00 AM,,yes,Submitted
-12,Gregor Daiss,Gregor,data/Daiss.tex,University of Stuttgart,Comparing Kernel Fusion Strategies with SYCL,BENCH,20$^{th}$,11:00 AM--11:30 AM,,no,Not Submitted but will give a talk
+12,Gregor Daiss,Gregor,data/Daiss.tex,University of Stuttgart,Comparing Kernel Fusion Strategies with SYCL,BENCH,20$^{th}$,11:00 AM--11:30 AM,,"yes, Patrick",Not Submitted but will give a talk
 13,Jonas Posner,Jonas,data/Jonas.tex,University of Kassel,Dynamic Resource Management: Comparison of Asynchronous Many-Task (AMT) and Dynamic Processes with PSets (DPP),BENCH,20$^{th}$,11:30 AM--12:00 PM,,yes,Submitted
 14,Amadeu Moya,Amadeu,data/Amadeu.tex,Barcelona Supercomputing Center,Unifying the Architecture and Implementation of Task-Aware Libraries,Libraries APP,20$^{th}$,1:00 PM--1:30 PM,,Will come through bank transfer: Amadeu Moya,Withdraw but will give a talk
 15,Rabab Alomairy,Rabab,data/Rabab.tex,Massachusetts Institute of Technology,Data Sparsity in Global and Compact Support Radial Basis Functions for 3D Unstructured Mesh Deformation,APP,20$^{th}$,1:30 PM--2:00 PM,,"yes, Qinglei",Submitted
