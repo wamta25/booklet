@@ -1,22 +1,20 @@
-Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time,,Registered?,Note
-1,Alan Edelman,,data/Alan.tex,Massachusetts Institute of Technology,"Keynote I: Improving the HPC experience, did Julia get it right or will AI hide the problem (or both)?",KEYNOTE,19$^{th}$,9:00 AM--10:00 AM,,Keynote,
-2,Jiakun Yan,,data/Jiakun.tex,University of Illinois Urbana-Champaign,Contemplating a Lightweight Communication Interface for Asynchronous Many-Task Systems,RUNTIME,19$^{th}$,10:30 AM--11:00 AM,,yes,Submitted
-3,Aurelien Bouteiller,,data/Aurelien.tex,"	University of Tennessee Knoxville","Comparing and Contrasting User and Runtime Directed Data Placement Strategies for Owner-Compute, Multi-Accelerator Distributed Task Based Scheduling",RUNTIME,19$^{th}$,11:00 AM--11:30 AM,,yes,Submitted
-4,Shreyas Atre,,data/Shreyas.tex,lsu center for computing and technology,Chplx an Asynchronous Many Task Runtime Foundation for Chapel,RUNTIIME,19$^{th}$,11:30 AM--12:00 PM,,"yes, Christopher Taylor",Submitted
-5,Vicenc Beltran Querol,,data/Raul.tex,Barcelona Supercomputing Center,Supporting OpenMP Free Agents by Leveraging the nOS-V Threading Library,RUNTIME,19$^{th}$,1:00 PM--1:30 PM,,Will come through bank transfer: Vicenc Beltran ,Submitted
-6,"R\""udiger Nather",,data/Rudiger.tex,University of Kassel,Futures in Task Graphs Ð Extending Taskflow With Dynamic Data Dependencies,RUNTIME,19$^{th}$,1:30 PM--2:00 PM,,yes,Submitted
-7,Karame Mohammadiporshokooh,,data/Karame.tex,Louisiana State University,Adaptively Optimizing the Performance of HPX's Parallel Algorithms,RUNTIME,19$^{th}$,2:00 PM--2:30 PM,,yes,Submitted
-8,Claudia Fohry,,data/Mia.tex,University of Kassel,Fail-stop Failure Protection for Coordinated Work Stealing of Tasks that Communicate through Futures,Fault Tolerance,19$^{th}$,3:00 PM--3:30 PM,,"Yes, Claudia Fohry",Submitted
-9,Anthony Cabrera,,data/Anthony.tex,Oak Ridge National Laboratory,Q-IRIS: The Evolution of the IRIS Task-Based Runtime to Enable Classical-Quantum Workflows,Quantum,19$^{th}$,3:30 PM--4:00 PM,,"Yes, Narasinga Rao Miniskar",Submitted
-10,Christian Trott,,data/Christian.tex,Sandia National Laboratories,Keynote II: Task-Graphs: Why aren't we all using them?,KEYNOTE,20$^{th}$,9:00 AM--10:00 AM,,Keynote,
-11,Nafees Iqbal,,data/Jed.tex,University of Colorado Boulder,Type-level invariants for SPMD programming with Rust,BENCH,20$^{th}$,10:30 AM--11:00 AM,,yes,Submitted
-12,Patrick Diehl,,data/Daiss.tex,University of Stuttgart,"Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust",BENCH,20$^{th}$,11:00 AM--11:30 AM,,"yes, Patrick",Not Submitted but will give a talk
-13,Jonas Posner,,data/Jonas.tex,University of Kassel,Dynamic Resource Management: Comparison of Asynchronous Many-Task (AMT) and Dynamic Processes with PSets (DPP),BENCH,20$^{th}$,11:30 AM--12:00 PM,,yes,Submitted
-14,Amadeu Moya,,data/Amadeu.tex,Barcelona Supercomputing Center,Unifying the Architecture and Implementation of Task-Aware Libraries,Libraries APP,20$^{th}$,1:00 PM--1:30 PM,,Will come through bank transfer: Amadeu Moya,Withdraw but will give a talk
-15,Rabab Alomairy,,data/Rabab.tex,Massachusetts Institute of Technology,Data Sparsity in Global and Compact Support Radial Basis Functions for 3D Unstructured Mesh Deformation,APP,20$^{th}$,1:30 PM--2:00 PM,,"yes, Qinglei",Submitted
-16,Cheng-Hsiang Chiu,,data/Cheng.tex,University of Wisconsin at Madison,A Task-parallel Pipeline Programming Framework with Token Dependency,APP,20$^{th}$,2:00 PM--2:30 PM,,yes,Submitted
-17,Alexander Strack,,data/Maksim.tex,"	University of Toronto",GPRat: Gaussian Process Regression with Asynchronous Tasks,APP,20$^{th}$,3:00 PM--3:30 PM,,"yes, Alexander Strack",Submitted
-18,Maxwell Onyango,,data/Maxwell.tex,Massachusetts Institute of Technology,Julia-Unified Recursive Implementation of TRMM and TRSM for GPU Acceleration,LA APP,20$^{th}$,3:30 PM--4:00 PM,,"yes, Stella Rupia",Submitted
-19,Hatem Ltaief,,data/Hatem.tex,King Abdullah University of Science and Technology,Keynote III: Chaos to Cosmos: Orchestrating Complex Scientific Applications with Dynamic Runtime Systems,KEYNOTE,21$^{th}$,9:00 AM--10:00 AM,,Keynote,
-20,Joseph Schuchart,,data/Joseph.tex,Stony Brook University,Scalable Block-Sparse Matrix Multiplication Using Template Task Graphs,LA APP,21$^{th}$,10:30 AM--11:00 AM,,yes,Submitted
-21,Qiao Zhang,,data/Qiao.tex,Saint Louis University,Leveraging Hardware-Aware Computation in Mixed-Precision Matrix Multiply: A Tile-Centric Approach,LA APP,21$^{th}$,11:00 AM--11:30 AM,,yes,Submitted
+Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time
+1,Klemm,Michael,data/1.tex,AMD,Keynote 1: Fortran and the OpenMP API in a Modern GPU World,1,16$^{th}$,9:00 AM--10:00 AM
+2,Thoman,Peter,data/2.tex,University of Innsbruck,Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems,2,16$^{th}$,10:30 AM--11:00 AM
+3,Strack,Alexander,data/3.tex,University of Stuttgart,"Accelerating GPRat: Asynchronous, Task-Based GPU Acceleration for Gaussian Process Regression with HPX",3,16$^{th}$,11:00 AM--11:30 AM
+4, Zhang,Qiao,data/4.tex,Saint Louis University,Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia,4,16$^{th}$,11:30 AM--12:00 PM
+5,Gracia,Jose,data/5.tex,"High Performance Computing Center Stuttgart, University of Stuttgart",Evaluating MPI and OpenMP for global task dependencies across processes.,5,16$^{th}$,1:00 PM--1:30 PM
+6,Posner,Jonas,data/6.tex,Fulda University of Applied Sciences,"Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI",6,16$^{th}$,1:30 PM--2:00 PM
+7,Brieuc,Nicolas,data/7.tex,Inria,Managing Explicit Communications Within a Sequential Task Flow Paradigm,7,16$^{th}$,2:00 PM--2:30 PM
+8,Badia,Rosa,data/8.tex,BSC-CNS,Keynote 2: Task-based programming models: tradeoffs between granularity and computing platforms,10,17$^{th}$,9:00 AM--10:00 AM
+9,Huber,Dominik,data/9.tex,Technical University Munich,Towards Dynamic Resource Management with Charm++,11,17$^{th}$,10:30 AM--11:00 AM
+10,Nather,"R\""udiger",data/10.tex,"Universit\""at Kassel",Finding Conservation Laws of Large Dynamical Systems with Tasks and Futures: A Case Study in Utilizing Dynamic Data Dependencies,12,17$^{th}$,11:00 AM--11:30 AM
+11,Schuchart,Joseph,data/11.tex,Stony Brook University,Using C\texttt{++} Generators in Dataflow Broadcast,13,17$^{th}$,11:30 AM--12:00 PM
+12,Batel,Linus,data/12.tex,University of Stuttgart,From Promts to Performance: Evaluating LLMs for Task-based Parallel Code Generation,14,17$^{th}$,1:00 PM--1:30 PM
+13,Eyraud-Dubois,Lionel,data/13.tex,Inria,First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications,15,17$^{th}$,1:30 PM--2:00 PM
+14,Reitz,Mia,data/14.tex,University of Kassel,Silent Data Corruption Protection through Efficient Task Replication,16,17$^{th}$,2:00 PM--2:30 PM
+15,Munhoz Pereira Filho,Vanderlei,data/15.tex,INRIA,erformance Analysis of Task-Based Parallelism for 3D Acoustic Full Waveform Inversion on HPC Infrastructure,17,17$^{th}$,3:00 PM--3:30 PM
+16,Chaturvedi,Nilesh,data/16.tex,Stony Brook University,Multiresolution Analysis using Data-Flow Programming,18,17$^{th}$,3:30 PM--4:00 PM
+17,Brown,Nick,data/17.tex,EPCC,Keynote 3: Asychronous tasks: the cornerstone of targeting HPC on emerging architectures,19,18$^{th}$,9:00 AM--10:00 AM
+18,Ducarton,Nicolas,data/18.tex,University of Bordeaux,Abstract communicators for task based runtime systems,,18$^{th}$,9:00 AM--10:00 AM
+19,Gu,Zhuowei,data/19.tex,Saint Louis University,Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition,,18$^{th}$,10:30 AM--11:00 AM

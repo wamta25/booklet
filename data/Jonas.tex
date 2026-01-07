@@ -1,9 +1,0 @@
-Dynamic resource management allows programs running on supercomputers to adjust resource allocations at runtime. This dynamism offers potential improvements in both individual program efficiency and overall supercomputer utilization.
-
-Despite growing interest in recent years, the adoption of dynamic resource management remains limited due to inadequate support from widely used resource managers, such as Slurm, and programming environments, such as MPI. Furthermore, developing flexible programs introduces substantially higher programming complexity compared to static programs.
-
-While recent research has improved MPI's resource flexibility, significant programmability challenges remain. Additionally, MPI-based solutions rely on low-level message-passing primitives, which are particularly challenging to use for non-iterative workloads.
-
-Asynchronous Many-Task (AMT) programming offers a promising alternative to MPI. By decomposing computations into tasks that are dynamically scheduled by the runtime system, AMT is well suited to handling irregular and dynamic workloads. AMT's transparent resource management is ideal for dynamic resources, allowing the runtime system to seamlessly redistribute tasks in response to node changes without requiring additional programmer effort.
-
-In this work, we compare the "Dynamic Processes with PSets (DPP)" design principle implemented in an MPI-based environment and the APGAS+GLB AMT runtime system. We implement benchmarks in both environments to evaluate programmability and perform experiments on up to 16 nodes to analyze the performance of static and flexible programs. Results demonstrate that GLB simplifies programming with built-in load balancing and resource flexibility. In contrast, the MPI-DPP implementation achieves superior performance in handling node changes but at the cost of increased programming complexity.
