@@ -13,8 +13,8 @@ Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time
 12,Batel,Linus,data/12.tex,University of Stuttgart,From Promts to Performance: Evaluating LLMs for Task-based Parallel Code Generation,14,17$^{th}$,1:00 PM--1:30 PM
 13,Eyraud-Dubois,Lionel,data/13.tex,Inria,First Experiments to Evaluate the Relevance of Task-based Runtime Systems to Implement Large Language Model Applications,15,17$^{th}$,1:30 PM--2:00 PM
 14,Reitz,Mia,data/14.tex,University of Kassel,Silent Data Corruption Protection through Efficient Task Replication,16,17$^{th}$,2:00 PM--2:30 PM
-15,Munhoz Pereira Filho,Vanderlei,data/15.tex,INRIA,erformance Analysis of Task-Based Parallelism for 3D Acoustic Full Waveform Inversion on HPC Infrastructure,17,17$^{th}$,3:00 PM--3:30 PM
-16,Chaturvedi,Nilesh,data/16.tex,Stony Brook University,Multiresolution Analysis using Data-Flow Programming,18,17$^{th}$,3:30 PM--4:00 PM
-17,Brown,Nick,data/17.tex,EPCC,Keynote 3: Asychronous tasks: the cornerstone of targeting HPC on emerging architectures,19,18$^{th}$,9:00 AM--10:00 AM
-18,Ducarton,Nicolas,data/18.tex,University of Bordeaux,Abstract communicators for task based runtime systems,,18$^{th}$,9:00 AM--10:00 AM
-19,Gu,Zhuowei,data/19.tex,Saint Louis University,Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition,,18$^{th}$,10:30 AM--11:00 AM
+15,Brown,Nick,data/17.tex,EPCC,Keynote 3: Asychronous tasks: the cornerstone of targeting HPC on emerging architectures,19,18$^{th}$,9:00 AM--10:00 AM
+16,Munhoz Pereira Filho,Vanderlei,data/15.tex,INRIA,erformance Analysis of Task-Based Parallelism for 3D Acoustic Full Waveform Inversion on HPC Infrastructure,17,18$^{th}$,10:30 AM--11:00 AM
+17,Chaturvedi,Nilesh,data/16.tex,Stony Brook University,Multiresolution Analysis using Data-Flow Programming,18,18$^{th}$,11:00 AM--11:30 AM
+18,Ducarton,Nicolas,data/18.tex,University of Bordeaux,Abstract communicators for task based runtime systems,,18$^{th}$,11:30 AM--12:00 PM
+19,Gu,Zhuowei,data/19.tex,Saint Louis University,Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition,,18$^{th}$,1:00 PM--1:30 PM
