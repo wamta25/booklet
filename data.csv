@@ -2,7 +2,7 @@ Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time
 1,Klemm,Michael,data/1.tex,AMD,Keynote 1: Fortran and the OpenMP API in a Modern GPU World,1,16$^{th}$,9:00 AM--10:00 AM
 2,Thoman,Peter,data/2.tex,University of Innsbruck,Concurrent Scheduling of High-Level Parallel Programs on Multi-GPU Systems,2,16$^{th}$,10:30 AM--11:00 AM
 3,Strack,Alexander,data/3.tex,University of Stuttgart,"Accelerating GPRat: Asynchronous, Task-Based GPU Acceleration for Gaussian Process Regression with HPX",3,16$^{th}$,11:00 AM--11:30 AM
-4, Zhang,Qiao,data/4.tex,Saint Louis University,Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia,4,16$^{th}$,11:30 AM--12:00 PM
+4,Arcila,Vincent ,data/20.tex,Barcelona Supercomputing Center,Hierarchical Scheduling for Composable Affinity-Aware Policies in Task-Based Runtimes,4,16$^{th}$,11:30 AM--12:00 PM
 5,Gracia,Jose,data/5.tex,"High Performance Computing Center Stuttgart, University of Stuttgart",Evaluating MPI and OpenMP for global task dependencies across processes.,5,16$^{th}$,1:00 PM--1:30 PM
 6,Posner,Jonas,data/6.tex,Fulda University of Applied Sciences,"Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI",6,16$^{th}$,1:30 PM--2:00 PM
 7,Brieuc,Nicolas,data/7.tex,Inria,Managing Explicit Communications Within a Sequential Task Flow Paradigm,7,16$^{th}$,2:00 PM--2:30 PM
@@ -18,3 +18,4 @@ Talk,Last,First,Abstract,Affiliation,Title,Keywords,Date,Time
 17,Chaturvedi,Nilesh,data/16.tex,Stony Brook University,Multiresolution Analysis using Data-Flow Programming,18,18$^{th}$,11:00 AM--11:30 AM
 18,Ducarton,Nicolas,data/18.tex,University of Bordeaux,Abstract communicators for task based runtime systems,,18$^{th}$,11:30 AM--12:00 PM
 19,Gu,Zhuowei,data/19.tex,Saint Louis University,Merging Parameterized Task Graphs in PaRSEC through Recursive JDF Composition,,18$^{th}$,1:00 PM--1:30 PM
+20, Zhang,Qiao,data/4.tex,Saint Louis University,Leveraging PaRSEC for Task-Based Heterogeneous Computing in Python and Julia,4,18$^{th}$,1:30 PM--2:00 PM
